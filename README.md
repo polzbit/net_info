@@ -6,7 +6,7 @@ the script checks if **`ifconfig`** command is installed and use it to get the f
 - Network Card
 - IP Address
 - MAC Address
-in case **`ifconfig`** command is not installed, the script use iproute2 to get the information.
+in case **`ifconfig`** command is not installed, the script use **`iproute2`** to get the information.
 
 ## License
 
